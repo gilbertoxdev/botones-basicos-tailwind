@@ -1,0 +1,23 @@
+{
+  "name": "botones-basicos-tailwind",
+  "version": "1.0.0",
+  "description": "Ejemplos de botones básicos creados con HTML y TailwindCSS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "TailwindCSS"
+  ],
+  "author": {
+    "name": "Gilberto La Rosa",
+    "email": "hola@gilbertox.dev",
+    "url": "https://gilbertox.dev"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.7"
+  }
+}
